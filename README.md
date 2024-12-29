@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MwdDlhNTN3cjZtd3hrYjB1c2hvdG1vZnl5NGRjZHk5NXZ5Z2ZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 ## 🌟 About Me
