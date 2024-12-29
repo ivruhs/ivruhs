@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm ivruhs [Shubham Prasad]! 👋
 
-<!--
-**ivruhs/ivruhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 About Me
+- 🔭 I’m currently working on [Project/Area].
+- 🌱 I’m currently learning [HTML/CSS/JS].
+- 🤔 I’m looking for help with [Problem or Collaboration Interest].
+- 💬 Ask me about [Topics you're knowledgeable in].
+- 😄 Pronouns : He/Him
+- ⚡ Fun fact: [Something interesting about you].
+
+## 🛠️ Technologies & Tools
+- Programming Languages: [C] [C++]
+- Tools: [List your tools]
+- Frameworks: [Tailwind CSS] [SASS]
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
+## 🚀 Projects
+- [Project Name 1](link) - Description.
+- [Project Name 2](link) - Description.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🌐 Connect With Me
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivruhs/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-prasad-67b104324/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhakrishn0181@gmail.com)
