@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ## 🚀 Projects
-- [Project Name 1](link) - Description.
+- [WOC - Education Portal][https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/) - Basic Educational Portal designed using HTML,CSS & JS.
 - [Project Name 2](link) - Description.
 
 ## 🌐 Connect With Me
