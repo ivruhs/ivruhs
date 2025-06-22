@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
-- 🔭 I’m currently working on [https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/).
+- 🔭 I’m currently working on [https://github.com/ivruhs/JobVector]
 - 🌱 I’m currently learning [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  / ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) / ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ].
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 Projects
 - [WOC - Education Portal][https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/) - Basic Educational Portal designed using HTML,CSS & JS.
-- [Project Name 2](link) - Description.
+- [JobVector](https://github.com/ivruhs/JobVector) - AI-powered MERN app for resume-JD match using vector embeddings, semantic search, and Gemini 1.5 Flash.
 
 ## 🌐 Connect With Me
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivruhs/)
