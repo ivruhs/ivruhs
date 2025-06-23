@@ -8,9 +8,14 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 - 🔭 I’m currently working on [https://github.com/ivruhs/JobVector] (Link : https://job-vector.vercel.app/)
-- 🌱 I’m currently learning [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- / ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) / ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-].
+- 🌱 I’m currently learning  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+/
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+/
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+/
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - 🤝 I’m looking for help with: Collaborating on full-stack AI projects and exploring scalable, intelligent web applications.
 - 💬 Ask me about: MERN stack, JWT authentication, Supabase, vector embeddings, Gemini API, and integrating AI into real-world apps.
 - 😄 Pronouns: He/Him
