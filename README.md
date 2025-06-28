@@ -27,6 +27,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,6 +57,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 Projects
 - [JobVector](https://github.com/ivruhs/JobVector) (https://job-vector.vercel.app/) - AI-powered MERN app for resume-JD match using vector embeddings, semantic search, and Gemini 1.5 Flash.
+- [IvRuHsWrites - Blog App] (https://ivruhs-writes-fqqr.vercel.app) - A modern, AI-powered blog application with a clean admin interface and seamless content management.
 - [WOC - Education Portal][https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/) - Basic Educational Portal designed using HTML,CSS & JS.
 
 
