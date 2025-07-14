@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
-- 🔭 I’m currently working on [https://github.com/ivruhs/JobVector] (Link : https://job-vector.vercel.app/)
+- 🔭 I’m currently working on [https://github.com/ivruhs/Zenoryx] (Link : https://zenoryx.vercel.app)
 - 🌱 I’m currently learning  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 /
@@ -16,6 +16,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 /
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+/
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 - 🤝 I’m looking for help with: Collaborating on full-stack AI projects and exploring scalable, intelligent web applications.
 - 💬 Ask me about: MERN stack, JWT authentication, Supabase, vector embeddings, Gemini API, and integrating AI into real-world apps.
 - 😄 Pronouns: He/Him
@@ -37,11 +40,13 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🧠 AI & NLP
 ![Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Cosine Similarity](https://img.shields.io/badge/Cosine_Similarity-00BFA6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge)
 
 ### 📦 Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,6 +64,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - [JobVector](https://github.com/ivruhs/JobVector) (https://job-vector.vercel.app/) - AI-powered MERN app for resume-JD match using vector embeddings, semantic search, and Gemini 1.5 Flash.
 - [IvRuHsWrites - Blog App] (https://ivruhs-writes-fqqr.vercel.app) - A modern, AI-powered blog application with a clean admin interface and seamless content management.
 - [WOC - Education Portal][https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/) - Basic Educational Portal designed using HTML,CSS & JS.
+- [Zenoryx - AI-Powered GITHUB Code Assistant] (https://zenoryx.vercel.app) - Code assistant that helps developers analyze GitHub repositories, latest commits, and ask Questions to their     codebase.
 
 
 ## 🌐 Connect With Me
