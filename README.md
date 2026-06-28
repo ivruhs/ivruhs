@@ -1,73 +1,238 @@
-# Hi, I'm ivruhs [Shubham Prasad]! 👋
+# Hi, I'm Shubham Prasad 👋
 
-<div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MwdDlhNTN3cjZtd3hrYjB1c2hvdG1vZnl5NGRjZHk5NXZ5Z2ZxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="auto">
-</div>
+<h3 align="center">
+Mathematics & Computing Student • Next.js Developer • AI Enthusiast • Competitive Programmer
+</h3>
 
-Welcome to my GitHub profile! Here's a little about me:
+<p align="center">
+I enjoy building AI-powered applications, developer tools, scalable backend systems, and solving algorithmic problems.
+</p>
 
-## 🌟 About Me
-- 🔭 I’m currently working on [https://github.com/ivruhs/Zenoryx] (Link : https://zenoryx.vercel.app)
-- 🌱 I’m currently learning  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-/
+<p align="center">
+<a href="https://github.com/ivruhs">
+<img src="https://img.shields.io/github/followers/ivruhs?label=Followers&style=for-the-badge"/>
+</a>
+<a href="https://github.com/ivruhs">
+<img src="https://img.shields.io/github/stars/ivruhs?affiliations=OWNER&style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **B.Tech Mathematics & Computing** student at **Dhirubhai Ambani University (DA-IICT)**
+
+🏆 **Google Big Code Round 2 Qualifier** *(Top 1500 Nationwide)*
+
+⭐ **LeetCode Knight** *(1850+ Rating | 600+ Problems Solved)*
+
+💻 Passionate about building software at the intersection of **AI**, **Backend Engineering**, and **Developer Experience**.
+
+### Interests
+
+* 🤖 AI Engineering
+* 🧠 Retrieval-Augmented Generation (RAG)
+* ⚡ Backend Systems
+* 🗄️ Database Design
+* ☁️ Distributed Systems
+* 💡 Developer Tools
+* 🧩 Competitive Programming
+
+### Currently Exploring
+
+* Advanced DSA
+* System Design
+* AI Agents
+* Large Language Models
+* Scalable Backend Architectures
+* High Performance Databases
+
+---
+
+# 🚀 Featured Projects
+
+## 🌟 Zenoryx — AI GitHub Code Assistant
+
+> Chat with any GitHub repository and understand large codebases using AI.
+
+### Tech Stack
+
+Next.js 15 • Express.js • BullMQ • Redis • Tree-sitter • pgvector • Gemini
+
+### Highlights
+
+* Repository-scale Retrieval-Augmented Generation (RAG)
+* AST-based code chunking using Tree-sitter
+* Semantic search powered by pgvector
+* Background repository indexing using BullMQ & Redis
+* AI-generated explanations and repository insights
+* GitHub repository integration
+
+**🌐 Live Demo:** `https://zenoryx.vercel.app/`
+
+**📂 GitHub Repository:** `https://github.com/ivruhs/Zenoryx`
+
+---
+
+## 🗄️ DBMS Project — CONCOURS
+
+> A full-fledged Sports Tournament Management System designed using advanced database concepts with an AI-powered Natural Language to SQL interface.
+
+### Tech Stack
+
+PostgreSQL • SQL • PL/pgSQL • Next.js • AI
+
+### Highlights
+
+* Designed **23 BCNF-compliant** relational tables
+* Implemented Stored Procedures, Functions & Triggers
+* Enforced business rules at the database level
+* AI-powered Natural Language → SQL conversion
+* Automated tournament scheduling and management
+* Optimized relational schema for scalability and integrity
+
+**📂 GitHub Repository:** `https://github.com/ivruhs/dbms_project_concours`
+
+---
+
+## 📊 LeetCode Post-Mortem Engine
+
+> Analyze your competitive programming journey through insightful visualizations and performance analytics.
+
+### Tech Stack
+
+Next.js • TypeScript • Upstash Redis • JavaScript
+
+### Highlights
+
+* Processes **40,000+ submissions**
+* O(N) rank trajectory simulation
+* Minute by Minute Rank Trajectory
+* What if Rank Simulator
+* Binary search-based analytics engine
+* Interactive performance dashboards
+* Custom Gzip compression pipeline
+* Reduced serverless costs by **85%**
+
+**🌐 Live Demo:** `https://lc-postmortem.vercel.app/`
+
+**📂 GitHub Repository:** `https://github.com/ivruhs/lc_postmortem`
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## ⚙️ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+---
+
+## 🚀 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-/
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-/
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-/
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
 
-- 🤝 I’m looking for help with: Collaborating on full-stack AI projects and exploring scalable, intelligent web applications.
-- 💬 Ask me about: MERN stack, JWT authentication, Supabase, vector embeddings, Gemini API, and integrating AI into real-world apps.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🎬 I’ve mastered the art of finding the next series before the last one even ends.
-  
-## 🛠️ Technologies & Tools
+---
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+## 🗄️ Databases & Cloud
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge)
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+---
 
-### 🧠 AI & NLP
-![Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Cosine Similarity](https://img.shields.io/badge/Cosine_Similarity-00BFA6?style=for-the-badge)
+## 🤖 AI
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-00BFA6?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 
-### 📦 Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
-### 🧰 Other Tools
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PDF.js](https://img.shields.io/badge/PDF_Parsing-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🧰 Tools
 
-## 🚀 Projects
-- [JobVector](https://github.com/ivruhs/JobVector) (https://job-vector.vercel.app/) - AI-powered MERN app for resume-JD match using vector embeddings, semantic search, and Gemini 1.5 Flash.
-- [IvRuHsWrites - Blog App] (https://ivruhs-writes-fqqr.vercel.app) - A modern, AI-powered blog application with a clean admin interface and seamless content management.
-- [WOC - Education Portal][https://github.com/ivruhs/WoC_HTML_CSS_JS_202403042] (https://udemyivruhs.netlify.app/) - Basic Educational Portal designed using HTML,CSS & JS.
-- [Zenoryx - AI-Powered GITHUB Code Assistant] (https://zenoryx.vercel.app) - Code assistant that helps developers analyze GitHub repositories, latest commits, and ask Questions to their     codebase.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge)
+![Tree--sitter](https://img.shields.io/badge/Tree--sitter-2E8B57?style=for-the-badge)
 
+---
 
-## 🌐 Connect With Me
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivruhs/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-prasad-67b104324/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhakrishn0181@gmail.com)
+# 🏅 Achievements
+
+🏆 Google Big Code Round 2 Qualifier *(Top 1500 Nationwide)*
+
+⭐ LeetCode Knight *(1850+ Rating)*
+
+💯 Solved **600+** Data Structures & Algorithms problems
+
+👨‍💻 Core Member — Microsoft Student Technical Club (MSTC)
+
+🥇 AIR **8,668** — JEE Main
+
+🥇 AIR **13,830** — JEE Advanced
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Competitive Programming
+* AI Agents
+* Multi-Agent Systems
+* Distributed Systems
+* System Design
+* Large Language Models
+* High Performance Databases
+
+---
+
+# 🌱 Beyond Coding
+
+* 🎬 Watching great TV series
+* 📖 Reading about AI and distributed systems
+* 🚀 Building side projects
+* 🧩 Solving algorithmic problems
+* ☕ Always exploring new technologies
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn:** https://linkedin.com/in/shubham-prasad-ivruhs
+
+📧 **Email:** [radhakrishn0181@gmail.com](mailto:radhakrishn0181@gmail.com)
+
+💻 **GitHub:** https://github.com/ivruhs
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that combines AI with exceptional developer experience."*
+
+</div>
