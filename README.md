@@ -1,238 +1,81 @@
-# Hi, I'm Shubham Prasad 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./card-dark.svg">
+  <img alt="Shubham Prasad (ivruhs): Maths & Computing at DA-IICT, part-time engineer at wundr.fun, LeetCode Knight" src="./card-light.svg" width="100%">
+</picture>
 
-<h3 align="center">
-Mathematics & Computing Student • Next.js Developer • AI Enthusiast • Competitive Programmer
-</h3>
+<br/>
 
-<p align="center">
-I enjoy building AI-powered applications, developer tools, scalable backend systems, and solving algorithmic problems.
+I like turning hard ideas into things people can actually use: AI tools that read whole codebases, databases that enforce their own rules, and small games that teach you something in a few seconds. Most days you'll find me somewhere between a backend, a database and a LeetCode contest.
+
+## 🚀 Featured projects
+
+### 🌟 [Zenoryx](https://github.com/ivruhs/Zenoryx) · AI code assistant · [live ↗](https://zenoryx.vercel.app/)
+
+> Chat with any GitHub repository and understand a large codebase in minutes.
+
+- **Repo-scale RAG:** code is split by its syntax tree with Tree-sitter, so every chunk is a whole function or class
+- **Semantic search** over those chunks with pgvector embeddings
+- **Background indexing** on BullMQ + Redis, so big repos never block the chat
+- AI explanations and repo insights from Gemini
+
+<sub>Next.js 15 · Express · BullMQ · Redis · Tree-sitter · pgvector · Gemini</sub>
+
+### 📊 [LeetCode Post-Mortem](https://github.com/ivruhs/lc_postmortem) · contest analytics · [live ↗](https://lc-postmortem.vercel.app/)
+
+> Replay your contest minute by minute and see exactly where the rank went.
+
+- Processes **40,000+ submissions** into a rank trajectory in **O(N)**
+- A **"what if" rank simulator** on a binary-search analytics engine
+- A custom gzip pipeline that cut serverless costs by **85%**
+
+<sub>Next.js · TypeScript · Upstash Redis</sub>
+
+### 🗄️ [CONCOURS](https://github.com/ivruhs/dbms_project_concours) · tournament management system
+
+> A sports tournament system where the database itself enforces the rules.
+
+- **23 BCNF-compliant tables**, designed from scratch
+- Business rules held by **stored procedures, functions and triggers**, not app code
+- **Natural language → SQL**: ask a question in plain English, get the query back
+- Automated tournament scheduling
+
+<sub>PostgreSQL · PL/pgSQL · Next.js · AI</sub>
+
+## 🎮 Part-time at [wundr.fun](https://wundr.fun)
+
+Wundr is a mobile feed of tiny interactive games, each one leaving a single idea behind. The anti-doomscroll feed.
+
+- **Games:** I've made 30+ for the feed, like [Slice](https://wundr.fun/w/slice), [Galla](https://wundr.fun/w/galla), [Sikku](https://wundr.fun/w/sikku) and a [Diwali set](https://wundr.fun/c/diwali), some in real-time 3D with three.js
+- **Backend:** the system that ships new games without an app update (Postgres + a CDN, with versions and rollback), and work on the feed's recommendation engine
+- **App and share:** an Expo / React Native upgrade, and share videos rebuilt on WebCodecs
+
+<sub>TypeScript · React · Hono · Postgres · Expo · three.js · Playwright</sub>
+
+## 🛠 Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,py,react,nextjs,tailwind,nodejs,express,threejs&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,vite,cloudflare,vercel,git,github&perline=10" />
 </p>
 
-<p align="center">
-<a href="https://github.com/ivruhs">
-<img src="https://img.shields.io/github/followers/ivruhs?label=Followers&style=for-the-badge"/>
-</a>
-<a href="https://github.com/ivruhs">
-<img src="https://img.shields.io/github/stars/ivruhs?affiliations=OWNER&style=for-the-badge"/>
-</a>
-</p>
+<sub>Also: Gemini · OpenAI · RAG · pgvector · BullMQ · Tree-sitter · Drizzle · Expo</sub>
 
----
+## 🏅 Highlights
 
-# 👨‍💻 About Me
+| | |
+|:-:|---|
+| 🏆 | **Google Big Code**, Round 2 qualifier (top 1500 in India) |
+| ⭐ | **LeetCode Knight**: 1850+ rating, 600+ problems solved |
+| 👨‍💻 | **Core member**, Microsoft Student Technical Club (MSTC) |
+| 🎯 | **JEE Main** AIR 8,668 · **JEE Advanced** AIR 13,830 |
 
-🎓 **B.Tech Mathematics & Computing** student at **Dhirubhai Ambani University (DA-IICT)**
+## 🌱 Right now
 
-🏆 **Google Big Code Round 2 Qualifier** *(Top 1500 Nationwide)*
+- 📚 **Learning:** AI agents and multi-agent systems, system design, distributed systems, high-performance databases
+- 🎬 **Off the clock:** a good TV series, reading about AI, and one more side project
 
-⭐ **LeetCode Knight** *(1850+ Rating | 600+ Problems Solved)*
+## 📫 Find me
 
-💻 Passionate about building software at the intersection of **AI**, **Backend Engineering**, and **Developer Experience**.
-
-### Interests
-
-* 🤖 AI Engineering
-* 🧠 Retrieval-Augmented Generation (RAG)
-* ⚡ Backend Systems
-* 🗄️ Database Design
-* ☁️ Distributed Systems
-* 💡 Developer Tools
-* 🧩 Competitive Programming
-
-### Currently Exploring
-
-* Advanced DSA
-* System Design
-* AI Agents
-* Large Language Models
-* Scalable Backend Architectures
-* High Performance Databases
-
----
-
-# 🚀 Featured Projects
-
-## 🌟 Zenoryx — AI GitHub Code Assistant
-
-> Chat with any GitHub repository and understand large codebases using AI.
-
-### Tech Stack
-
-Next.js 15 • Express.js • BullMQ • Redis • Tree-sitter • pgvector • Gemini
-
-### Highlights
-
-* Repository-scale Retrieval-Augmented Generation (RAG)
-* AST-based code chunking using Tree-sitter
-* Semantic search powered by pgvector
-* Background repository indexing using BullMQ & Redis
-* AI-generated explanations and repository insights
-* GitHub repository integration
-
-**🌐 Live Demo:** `https://zenoryx.vercel.app/`
-
-**📂 GitHub Repository:** `https://github.com/ivruhs/Zenoryx`
-
----
-
-## 🗄️ DBMS Project — CONCOURS
-
-> A full-fledged Sports Tournament Management System designed using advanced database concepts with an AI-powered Natural Language to SQL interface.
-
-### Tech Stack
-
-PostgreSQL • SQL • PL/pgSQL • Next.js • AI
-
-### Highlights
-
-* Designed **23 BCNF-compliant** relational tables
-* Implemented Stored Procedures, Functions & Triggers
-* Enforced business rules at the database level
-* AI-powered Natural Language → SQL conversion
-* Automated tournament scheduling and management
-* Optimized relational schema for scalability and integrity
-
-**📂 GitHub Repository:** `https://github.com/ivruhs/dbms_project_concours`
-
----
-
-## 📊 LeetCode Post-Mortem Engine
-
-> Analyze your competitive programming journey through insightful visualizations and performance analytics.
-
-### Tech Stack
-
-Next.js • TypeScript • Upstash Redis • JavaScript
-
-### Highlights
-
-* Processes **40,000+ submissions**
-* O(N) rank trajectory simulation
-* Minute by Minute Rank Trajectory
-* What if Rank Simulator
-* Binary search-based analytics engine
-* Interactive performance dashboards
-* Custom Gzip compression pipeline
-* Reduced serverless costs by **85%**
-
-**🌐 Live Demo:** `https://lc-postmortem.vercel.app/`
-
-**📂 GitHub Repository:** `https://github.com/ivruhs/lc_postmortem`
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-## ⚙️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
----
-
-## 🚀 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
-
----
-
-## 🗄️ Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge)
-
----
-
-## 🤖 AI
-
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge)
-![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-00BFA6?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
-
----
-
-## 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
-![BullMQ](https://img.shields.io/badge/BullMQ-EA4335?style=for-the-badge)
-![Tree--sitter](https://img.shields.io/badge/Tree--sitter-2E8B57?style=for-the-badge)
-
----
-
-# 🏅 Achievements
-
-🏆 Google Big Code Round 2 Qualifier *(Top 1500 Nationwide)*
-
-⭐ LeetCode Knight *(1850+ Rating)*
-
-💯 Solved **600+** Data Structures & Algorithms problems
-
-👨‍💻 Core Member — Microsoft Student Technical Club (MSTC)
-
-🥇 AIR **8,668** — JEE Main
-
-🥇 AIR **13,830** — JEE Advanced
-
----
-
-# 📚 Currently Learning
-
-* Advanced Data Structures & Algorithms
-* Competitive Programming
-* AI Agents
-* Multi-Agent Systems
-* Distributed Systems
-* System Design
-* Large Language Models
-* High Performance Databases
-
----
-
-# 🌱 Beyond Coding
-
-* 🎬 Watching great TV series
-* 📖 Reading about AI and distributed systems
-* 🚀 Building side projects
-* 🧩 Solving algorithmic problems
-* ☕ Always exploring new technologies
-
----
-
-# 📫 Connect With Me
-
-💼 **LinkedIn:** https://linkedin.com/in/shubham-prasad-ivruhs
-
-📧 **Email:** [radhakrishn0181@gmail.com](mailto:radhakrishn0181@gmail.com)
-
-💻 **GitHub:** https://github.com/ivruhs
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building software that combines AI with exceptional developer experience."*
-
-</div>
+<a href="https://linkedin.com/in/shubham-prasad-ivruhs"><img src="https://img.shields.io/badge/LinkedIn-ff9f43?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:radhakrishn0181@gmail.com"><img src="https://img.shields.io/badge/Email-ff9f43?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://wundr.fun/@ivruhs"><img src="https://img.shields.io/badge/wundr-@ivruhs-ff9f43?style=flat-square&labelColor=0d1117" /></a>
