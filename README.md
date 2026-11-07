@@ -4,6 +4,17 @@
 </picture>
 
 <br/>
+<br/>
+
+
+<p align="center">
+  <a href="https://shubham-prasad.vercel.app/">
+    <strong>🌐 Explore my portfolio ↗</strong>
+  </a>
+</p>
+
+<br/>
+
 
 I like turning hard ideas into things people can actually use: AI tools that read whole codebases, databases that enforce their own rules, and small games that teach you something in a few seconds. Most days you'll find me somewhere between a backend, a database and a LeetCode contest.
 
